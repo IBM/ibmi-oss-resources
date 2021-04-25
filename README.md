@@ -48,6 +48,20 @@ Important resources for anyone interested in open source on IBM i
 | Company (link) | Synopsis      |
 | -------------- | ------------- |
 | [SAIB](https://www.ibm.com/it-infrastructure/us-en/resources/power/ibm-i-customer-stories/#/saib/) | Using Node.js to integrate with Amazon Alexa |
+| [Genetco](https://www.ibm.com/it-infrastructure/us-en/resources/power/ibm-i-customer-stories/#/genetco/) | Updating their ERP system and implementing new GUI interfaces |
+| [Trans Am Piping Products](https://www.ibm.com/it-infrastructure/us-en/resources/power/ibm-i-customer-stories/#/trans-am-piping-products/) | Using PHP to redesign their website and increase productivity |
+| [Magid](https://www.ibm.com/it-infrastructure/us-en/resources/power/ibm-i-customer-stories/#/magid/) | Transforming green screen UIs to PHP |
+| [JDS Industries](https://www.ibm.com/it-infrastructure/us-en/resources/power/ibm-i-customer-stories/#/jds-industries/) | Several digital transformation projects us PHP, including mobile and Google Maps integration |
+| [Hatco Corporation](https://www.ibm.com/it-infrastructure/us-en/resources/power/ibm-i-customer-stories/#/hatco-corporation/) | Using PHP for web presence, and git for source control |
+| [Stonetales Properties](https://www.ibm.com/it-infrastructure/us-en/resources/power/ibm-i-customer-stories/#/stonetales-properties/) | Using Node.js to build new solutions when acquiring another company |
+| [FormaServ Systems](https://www.ibm.com/it-infrastructure/us-en/resources/power/ibm-i-customer-stories/#/FormaServe-systems/) | Using Node.js to enable and streamline digital tax filing in the UK |
+| [RPC Superfos](https://www.ibm.com/it-infrastructure/us-en/resources/power/ibm-i-customer-stories/#/RPC-superfos/) | Using open source languages such as Python and Node.js for frontend user interface modernization |
+| [King III Solutions](https://www.ibm.com/it-infrastructure/us-en/resources/power/ibm-i-customer-stories/#/king-III-solutions/) | Using PHP in a loosely-coupled fashion to modernize and build new solutions |
+| [H/T Bendix](https://www.ibm.com/it-infrastructure/us-en/resources/power/ibm-i-customer-stories/#/HT-bendix/) | Using Node.js for web presence and product catalog |
+| [ORIS](https://www.ibm.com/it-infrastructure/us-en/resources/power/ibm-i-customer-stories/#/oris/) | Using Drupal and other open source technologies to create an online portal for rental properties |
+| [Norwegian Air Ambulance Foundation](https://www.ibm.com/it-infrastructure/us-en/resources/power/ibm-i-customer-stories/#/norwegian-air-ambulance-foundation/) | Using open source to digitally transform air ambulance operations |
+| [Sunstate](https://www.ibm.com/it-infrastructure/us-en/resources/power/ibm-i-customer-stories/#/sunstate/) | Using PHP to digitize and streamline parts procurement |
+| [Mutual Distributing Company](https://www.ibm.com/it-infrastructure/us-en/resources/power/ibm-i-customer-stories/#/mutual-distributing-company/) | Leveraging multiple languages, including RPG, Node.js, Ruby, Python and PHP, to enable web presence and mobile integration |
 
 ## Case Studies
 
