@@ -38,6 +38,7 @@ Important resources for anyone interested in open source on IBM i
 - [Kevin Adler's Blog](https://kadler.io/)
 - [Seiden Group Blog](https://www.seidengroup.com/blog/)
 - [FAQ400 Blog](https://blog.faq400.com/en/category/03-open-source-en/)
+- [Anand Khekale's Technical Musings](https://www.anandk.dev/)
 
 ## IBM i Customer Stories
 - [IBM i Customer Stories page](http://ibm.biz/ibmistories)
@@ -61,3 +62,5 @@ Important resources for anyone interested in open source on IBM i
 
 ## Videos
 - [JORI + IBM i: Designing digital transformation](https://mediacenter.ibm.com/media/JORI+%2B+IBM+iA+Designing+digital+transformation/1_nla50dhz)
+- [FormaServ video library](https://learning.formaserve.co.uk/)
+- [The Beareded Geek on IBM i - Youtube Channel](https://www.youtube.com/channel/UCIC63tkPIao8B-KlZ3m-kLA/videos)
