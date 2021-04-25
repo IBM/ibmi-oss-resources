@@ -34,6 +34,11 @@ Important resources for anyone interested in open source on IBM i
 - [IBMiOSS LinkedIn group](https://www.linkedin.com/groups/12126719/)
 - [#IBMiOSS hashtag on Twitter](https://twitter.com/hashtag/IBMiOSS)
 
+## Blogs
+- [Kevin Adler's Blog](https://kadler.io/)
+- [Seiden Group Blog](https://www.seidengroup.com/blog/)
+- [FAQ400 Blog](https://blog.faq400.com/en/category/03-open-source-en/)
+
 ## IBM i Customer Stories
 - [IBM i Customer Stories page](http://ibm.biz/ibmistories)
 
@@ -54,13 +59,5 @@ Important resources for anyone interested in open source on IBM i
 | [Kube-Pak](https://cms.ibm.com/case-studies/kube-pak-systems-gardening-wholesale) | Integrating open source with battle-tested core business logic | *"We can develop in C, PHP, Java – there’s now a full range of open source software on the platform that meshes seamlessly with the core technologies that we’ve been running for decades"* ||
 | [JORI](https://www.ibm.com/case-studies/jori) | Built a 3D configurator using open source | *"What’s really cool is that this innovative, open-source solution is fully integrated with application code and business rules that our client has entrusted to i since the 1980s."* |
 
-
-
-
-
-
-
-## Blogs
-- [Kevin Adler's Blog](https://kadler.io/)
-- [Seiden Group Blog](https://www.seidengroup.com/blog/)
-- [FAQ400 Blog](https://blog.faq400.com/en/category/03-open-source-en/)
+## Videos
+- [JORI + IBM i: Designing digital transformation](https://mediacenter.ibm.com/media/JORI+%2B+IBM+iA+Designing+digital+transformation/1_nla50dhz)
