@@ -24,7 +24,7 @@ Important resources for anyone interested in open source on IBM i
 - [Open Source Support for IBM i](http://ibm.biz/ibmi-oss-support)
 
 ## Examples
-- [IBM i Open Source Examples](http://ibm.biz/ibmi-oss-examples)
+- [IBM i Open Source Examples](http://github.com/IBM/ibmi-oss-examples)
 
 ## Community
 - [IBM i Open Source Chat on Ryver](http://ibm.biz/ibmioss-chat)
