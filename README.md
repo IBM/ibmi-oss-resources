@@ -44,7 +44,7 @@ Important resources for anyone interested in open source on IBM i
 ## Videos
 - [JORI + IBM i: Designing digital transformation](https://mediacenter.ibm.com/media/JORI+%2B+IBM+iA+Designing+digital+transformation/1_nla50dhz)
 - [FormaServ video library](https://learning.formaserve.co.uk/)
-- [The Beareddd Geek on IBM i - Youtube Channel](https://www.youtube.com/channel/UCIC63tkPIao8B-KlZ3m-kLA/videos)
+- [The Bearded Geek on IBM i - Youtube Channel](https://www.youtube.com/channel/UCIC63tkPIao8B-KlZ3m-kLA/videos)
 
 ## IBM i Customer Stories
 - [IBM i Customer Stories page](http://ibm.biz/ibmistories)
