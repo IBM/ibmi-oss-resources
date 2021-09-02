@@ -31,6 +31,7 @@ Important resources for anyone interested in open source on IBM i
 - [IBM i Open Source Chat on Ryver](http://ibm.biz/ibmioss-chat)
       (must first join at [this link](http://ibm.biz/ibmioss-chat-join))
 - [IBM i Community Slack](http://ibmicommunity.slack.com)
+      (must first join at [this link](https://join.slack.com/t/ibmicommunity/shared_invite/zt-8c87gmld-OvD~Q~502Ns2f6JaGKUINQ))
 - [IBM Community pages for IBM i](http://ibm.biz/ibmicommunity)
 - [IBMiOSS LinkedIn group](https://www.linkedin.com/groups/12126719/)
 - [#IBMiOSS hashtag on Twitter](https://twitter.com/hashtag/IBMiOSS)
