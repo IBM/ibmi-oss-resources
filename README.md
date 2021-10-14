@@ -43,6 +43,12 @@ Important resources for anyone interested in open source on IBM i
 - [FAQ400 Blog](https://blog.faq400.com/en/category/03-open-source-en/)
 - [Anand Khekale's Technical Musings](https://www.anandk.dev/)
 
+## Podcasts
+- [The Incredible i Show](https://www.common.org/education-events/i-show-podcast)
+
+## Virtual Meetups
+- [iChime](https://www.centralparkdata.com/ichime-dates.html)
+
 ## Videos
 - [JORI + IBM i: Designing digital transformation](https://mediacenter.ibm.com/media/JORI+%2B+IBM+iA+Designing+digital+transformation/1_nla50dhz)
 - [FormaServ video library](https://learning.formaserve.co.uk/)
