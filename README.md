@@ -54,6 +54,9 @@ Important resources for anyone interested in open source on IBM i
 - [FormaServ video library](https://learning.formaserve.co.uk/)
 - [The Bearded Geek on IBM i - Youtube Channel](https://www.youtube.com/channel/UCIC63tkPIao8B-KlZ3m-kLA/videos)
 
+## Hands-on exercises
+- [Perforce Learning Center](https://www.zend.com/ibm-i-training-exercises)
+
 ## IBM i Customer Stories
 - [IBM i Customer Stories page](http://ibm.biz/ibmistories)
 
