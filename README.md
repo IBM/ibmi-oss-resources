@@ -21,6 +21,7 @@ Important resources for anyone interested in open source on IBM i
 - [IBM i chroot containers](https://github.com/IBM/ibmichroot/blob/master/README.md)
 - [Self-signed TLS certificate validation in IBM i OSS](https://www.seidengroup.com/2021/04/26/how-to-validate-self-signed-ssl-tls-certificates-from-ibm-i/)
 - [Db2 for i SQL Tutor](http://ibm.biz/Db2foriSQLTutor)
+- [Db2 for i and GraphQL](https://github.com/worksofliam/blog/issues/44)
 
 ## Support
 - [Open Source Support for IBM i](http://ibm.biz/ibmi-oss-support)
