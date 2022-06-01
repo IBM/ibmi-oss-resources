@@ -58,6 +58,9 @@ Important resources for anyone interested in open source on IBM i
 ## Hands-on exercises
 - [Perforce Learning Center](https://www.zend.com/ibm-i-training-exercises)
 
+## Want to submit an idea?
+- [IBM Power Ideas Portal](http://ibm.biz/ibmirfe)
+
 ## IBM i Customer Stories
 - [IBM i Customer Stories page](http://ibm.biz/ibmistories)
 
