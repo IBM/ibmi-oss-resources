@@ -39,6 +39,7 @@ Important resources for anyone interested in open source on IBM i
 - [#IBMiOSS hashtag on Twitter](https://twitter.com/hashtag/IBMiOSS)
 
 ## Blogs
+- [Jesse Gorzinski's Blog](http://ibm.biz/open-your-i)
 - [Kevin Adler's Blog](https://kadler.io/)
 - [Seiden Group Blog](https://www.seidengroup.com/blog/)
 - [FAQ400 Blog](https://blog.faq400.com/en/category/03-open-source-en/)
