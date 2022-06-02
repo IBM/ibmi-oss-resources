@@ -84,6 +84,15 @@ Important resources for anyone interested in open source on IBM i
 | [Norwegian Air Ambulance Foundation](https://www.ibm.com/it-infrastructure/us-en/resources/power/ibm-i-customer-stories/#/norwegian-air-ambulance-foundation/) | Using open source to digitally transform air ambulance operations |
 | [Sunstate](https://www.ibm.com/it-infrastructure/us-en/resources/power/ibm-i-customer-stories/#/sunstate/) | Using PHP to digitize and streamline parts procurement |
 | [Mutual Distributing Company](https://www.ibm.com/it-infrastructure/us-en/resources/power/ibm-i-customer-stories/#/mutual-distributing-company/) | Leveraging multiple languages, including RPG, Node.js, Ruby, Python and PHP, to enable web presence and mobile integration |
+| Wijnen Van Maele | PHP and Drupal CMS |
+| Robertet | AI and Watson APIs |
+| BWI Companies | Git, Jira, and other CI tools | 
+| FRS | PHP and other open source technologies to power web interfaces | 
+| JDS Industries | Mobile applications, integration with Google Maps and other APIs | 
+| Fuyo General Lease | SugarCRM | 
+| United Heritage Insurance | business-critical web applications | 
+| H-P Products | Integrating PHP with Db2 and core applications, leading to a performance boost over Linux | 
+| Computer Merchants | Integration with artificial intelligence | 
 
 ## Case Studies
 
