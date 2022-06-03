@@ -28,6 +28,7 @@ Important resources for anyone interested in open source on IBM i
 
 ## Examples
 - [IBM i Open Source Examples](http://github.com/IBM/ibmi-oss-examples)
+- [FormaServe's video code examples](https://github.com/FormaServe/f_Learning)
 
 ## Community
 - [IBM i Open Source Chat on Ryver](http://ibm.biz/ibmioss-chat)
@@ -48,12 +49,15 @@ Important resources for anyone interested in open source on IBM i
 ## Podcasts
 - [The Incredible i Show](https://www.common.org/education-events/i-show-podcast)
 
+## Newsletters and Articles
+- [PowerWire](https://powerwire.eu)
+
 ## Virtual Meetups
 - [iChime](https://www.centralparkdata.com/ichime-dates.html)
 
 ## Videos
 - [JORI + IBM i: Designing digital transformation](https://mediacenter.ibm.com/media/JORI+%2B+IBM+iA+Designing+digital+transformation/1_nla50dhz)
-- [FormaServ video library](https://learning.formaserve.co.uk/)
+- [FormaServe video library](https://learning.formaserve.co.uk/)
 - [The Bearded Geek on IBM i - Youtube Channel](https://www.youtube.com/channel/UCIC63tkPIao8B-KlZ3m-kLA/videos)
 
 ## Hands-on exercises
@@ -76,7 +80,7 @@ Important resources for anyone interested in open source on IBM i
 | [JDS Industries](https://www.ibm.com/it-infrastructure/us-en/resources/power/ibm-i-customer-stories/#/jds-industries/) | Several digital transformation projects us PHP, including mobile and Google Maps integration |
 | [Hatco Corporation](https://www.ibm.com/it-infrastructure/us-en/resources/power/ibm-i-customer-stories/#/hatco-corporation/) | Using PHP for web presence, and git for source control |
 | [Stonetales Properties](https://www.ibm.com/it-infrastructure/us-en/resources/power/ibm-i-customer-stories/#/stonetales-properties/) | Using Node.js to build new solutions when acquiring another company |
-| [FormaServ Systems](https://www.ibm.com/it-infrastructure/us-en/resources/power/ibm-i-customer-stories/#/FormaServe-systems/) | Using Node.js to enable and streamline digital tax filing in the UK |
+| [FormaServe Systems](https://www.ibm.com/it-infrastructure/us-en/resources/power/ibm-i-customer-stories/#/FormaServe-systems/) | Using Node.js to enable and streamline digital tax filing in the UK |
 | [RPC Superfos](https://www.ibm.com/it-infrastructure/us-en/resources/power/ibm-i-customer-stories/#/RPC-superfos/) | Using open source languages such as Python and Node.js for frontend user interface modernization |
 | [King III Solutions](https://www.ibm.com/it-infrastructure/us-en/resources/power/ibm-i-customer-stories/#/king-III-solutions/) | Using PHP in a loosely-coupled fashion to modernize and build new solutions |
 | [H/T Bendix](https://www.ibm.com/it-infrastructure/us-en/resources/power/ibm-i-customer-stories/#/HT-bendix/) | Using Node.js for web presence and product catalog |
