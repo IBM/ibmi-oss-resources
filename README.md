@@ -46,6 +46,7 @@ Important resources for anyone interested in open source on IBM i
 - [Seiden Group Blog](https://www.seidengroup.com/blog/)
 - [FAQ400 Blog](https://blog.faq400.com/en/category/03-open-source-en/)
 - [Anand Khekale's Technical Musings](https://www.anandk.dev/)
+- [Perforce IBM i Blog](https://www.zend.com/resources/ibm-i-blog)
 
 ## Podcasts
 - [The Incredible i Show](https://www.common.org/education-events/i-show-podcast)
