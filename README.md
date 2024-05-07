@@ -39,6 +39,10 @@ Important resources for anyone interested in open source on IBM i
 - [IBMiOSS LinkedIn group](https://www.linkedin.com/groups/12126719/)
 - [#IBMiOSS hashtag on Twitter](https://twitter.com/hashtag/IBMiOSS)
 - [Jesse Gorzinski's personal Twitter](https://twitter.com/IBMJesseG)
+- [midrange.com](https://midrange.com)
+  * [Mailing lists](https://lists.midrange.com)
+  * [Mailing List Archives](https://archives.midrange.com)
+  * [IBM i Wiki](https://wiki.midrange.com)
 
 ## Blogs
 - [Jesse Gorzinski's Blog](http://ibm.biz/open-your-i)
