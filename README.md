@@ -6,6 +6,8 @@ Important resources for anyone interested in open source on IBM i
 - [Getting Started with IBM i RPMs](http://ibm.biz/ibmi-rpms)
 
 ## Documentation - Specific
+- [DbToo Db2 for i SDK for AI](https://ibm.github.io/AI-SDK-Db2-IBMi/)
+  - See also [A comprehensive guide to using AI with IBM i](https://ibm.github.io/AI-IBMi-guide/)
 - [Node.js itoolkit](https://nodejs-itoolkit.readthedocs.io)
 - [Node.js odbc module](https://github.com/markdirish/node-odbc/blob/master/README.md)
 - [Node.js idb-connector module](https://www.npmjs.com/package/idb-connector)
@@ -14,6 +16,7 @@ Important resources for anyone interested in open source on IBM i
 - [Python itoolkit](https://python-itoolkit.readthedocs.io)
 - [Python SQLAlchemy Adapter](https://sqlalchemy-ibmi.readthedocs.io/en/latest/)
 - [XMLService](https://xmlservice.readthedocs.io/)
+- [Mapepire Database Access Layer](https://mapepire-ibmi.github.io/)
 - [ODBC driver](https://ibmi-oss-docs.readthedocs.io/en/latest/odbc/README.html)
 - [PostgreSQL](https://ibmi-oss-docs.readthedocs.io/en/latest/postgresql.html)
 - [PHP options for IBM i](http://ibm.biz/ibmi-php)
@@ -31,8 +34,7 @@ Important resources for anyone interested in open source on IBM i
 - [FormaServe's video code examples](https://github.com/FormaServe/f_Learning)
 
 ## Community
-- [IBM i Open Source Chat on Ryver](http://ibm.biz/ibmioss-chat)
-      (must first join at [this link](http://ibm.biz/ibmioss-chat-join))
+- [IBM i Open Source Chat](https://chat.ibmioss.org)
 - [IBM i Community Slack](http://ibmicommunity.slack.com)
       (must first join at [this link](https://join.slack.com/t/ibmicommunity/shared_invite/zt-8c87gmld-OvD~Q~502Ns2f6JaGKUINQ))
 - [IBM Community pages for IBM i](http://ibm.biz/ibmicommunity)
